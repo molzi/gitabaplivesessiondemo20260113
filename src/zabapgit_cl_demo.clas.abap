@@ -15,7 +15,7 @@ CLASS zabapgit_cl_demo IMPLEMENTATION.
   METHOD say_hello.
     DATA: lv_hello type string.
 
-    lv_hello = 'Hello'.
+    lv_hello = 'Hello World'.
   ENDMETHOD.
 
 ENDCLASS.
